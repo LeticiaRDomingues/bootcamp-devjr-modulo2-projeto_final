@@ -33,8 +33,12 @@ span{
 }
 
 button{
-    background-color: #1D0C20;
+
     color: #FFFFFF;
+
+    border: none;
+    border-radius: 2px;
+    background-color: #1D0C20;
 }
 
 .copyright{
