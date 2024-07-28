@@ -1,0 +1,42 @@
+
+body {
+    background-color: #FFFFFF;
+
+}
+
+.container{
+    background-image: linear-gradient(#200D24, #621E6E);
+}
+.title{
+    color: #FECD23;
+}
+
+.header-content{
+    color: #FFFFFF;
+}
+
+span{
+    font-weight: bold;
+}
+
+.box-content-2{
+    background-image: linear-gradient(#621E6E, #200D24);
+}
+
+.header{
+    color: #FFFFFF;
+}
+
+.card{
+    background-image: linear-gradient(#3D5EEF, #6EC4FD);
+    color: #FFFFFF;
+}
+
+button{
+    background-color: #1D0C20;
+    color: #FFFFFF;
+}
+
+.copyright{
+    color: #FFFFFF;
+}
