@@ -9,26 +9,59 @@ body{
     margin: auto;
     width: 500px;
     height: auto;
+    text-align: center;
 
     border-radius: 8px;
     padding: 10px;
 }
 
 .top-header{
+    font-size: 20px;
+    font-weight: bold;
     color: #FECD23;
-    padding: 5px;
+    margin-bottom: 15px;
 }
 
 .top-content{
+    font-size: 11px;
     color: #FFFFFF; 
+
     padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
 }
 
 .bottom{
     background-image: linear-gradient(#621E6E, #200D24);
     padding: 8px;
+    margin-top: 15px;
     border-radius:8px;
     box-sizing: border-box;
+}
+
+.text-bottom{
+    color: #FFFFFF;
+    padding: 5px;
+    text-align: center;
+    font-size: 19px;
+}
+
+input{
+    display: block;
+    margin-left: 60px;
+    margin-top: 15px;
+    width: 350px;
+    height: 23px;
+
+    padding: 3px 6px;
+    text-align: left;
+    font-size: 13px;
+    border-radius: 4px;
+    border: none;
+
+    cursor: pointer;    
 }
 
 .card{
@@ -43,5 +76,29 @@ body{
     border-radius: 8px;
     width: 25%;
     flex: 1;
-    margin-top: 15px;    
+    margin-top: 20px;  
+    margin-bottom: 3px;  
+    text-align: center;
+    padding-top: 30px;  
+    font-size: 25px;  
+    color:#FFFFFF
+}
+
+.img-1, .img-2, .img-3{
+    width: 150px;
+    height: 100px;
+    margin-bottom: 2px;
+}
+
+.vote{
+    margin-top: 3px;
+    margin-bottom: 15px;
+    height: 30px;
+    width: 60px;
+    background-color: #1D0C20;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 3px;
+
+    cursor: pointer;
 }
