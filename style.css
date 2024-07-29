@@ -70,7 +70,7 @@ input{
 }
 
 .card-gradiente-1, .card-gradiente-2, .card-gradiente-3{
-    background-image: linear-gradient(#2638DB, #1F0D21);
+    background-image: linear-gradient(#2638DB, #342A89);
     border-radius: 8px;
     flex: 1;
     margin-top: 20px;
